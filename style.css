@@ -9,3 +9,15 @@
 nav {
   font-family: cursive;
 }
+.carousel-item {
+  height: 95vh;
+  width: 100vw;
+  box-sizing: border-box;
+  padding: 1rem;
+  border-radius: 20px;
+}
+.carousel-item img {
+  height: 90%;
+  width: 90%;
+  border-radius: 20px;
+}
