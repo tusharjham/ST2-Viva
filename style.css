@@ -1,0 +1,11 @@
+#logo {
+  margin-left: 0.3vw;
+}
+#logo img {
+  height: 5vh;
+  width: 2.5vw;
+  background-color: aliceblue;
+}
+nav {
+  font-family: cursive;
+}
